@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "aULxGEXz5Vs16EcYlEojWtDFtzyWuTSBInwXHCeKDYg=",
+  "Source": "TvMazeTechTest",
+  "BasePath": "_content/TvMazeTechTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TvMazeTechTest\\wwwroot",
+      "Source": "TvMazeTechTest",
+      "ContentRoot": "C:\\Projects\\Sollicitatie projecten\\TvMazeTechTest\\TvMazeTechTest\\wwwroot\\",
+      "BasePath": "_content/TvMazeTechTest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\Sollicitatie projecten\\TvMazeTechTest\\TvMazeTechTest\\wwwroot\\details.html",
+      "SourceId": "TvMazeTechTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\Sollicitatie projecten\\TvMazeTechTest\\TvMazeTechTest\\wwwroot\\",
+      "BasePath": "_content/TvMazeTechTest",
+      "RelativePath": "details.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\details.html"
+    },
+    {
+      "Identity": "C:\\Projects\\Sollicitatie projecten\\TvMazeTechTest\\TvMazeTechTest\\wwwroot\\index.html",
+      "SourceId": "TvMazeTechTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\Sollicitatie projecten\\TvMazeTechTest\\TvMazeTechTest\\wwwroot\\",
+      "BasePath": "_content/TvMazeTechTest",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
